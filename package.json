@@ -1,0 +1,14 @@
+{
+  "name": "jsm",
+  "version": "0.0.1",
+  "description": "JSX for marketing people",
+  "main": "compiler.re",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Iwan Karamazow",
+  "license": "MIT",
+  "dependencies": {
+    "bs-platform": "git+https://github.com/bsansouci/bsb-native.git"
+  }
+}
