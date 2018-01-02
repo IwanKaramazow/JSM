@@ -30,4 +30,3 @@ and read_string buf =
       read_string buf lexbuf
     }
   | _ { raise (SyntaxError "unterminated string sequence") }
-  

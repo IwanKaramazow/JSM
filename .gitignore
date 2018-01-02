@@ -1,3 +1,7 @@
 .merlin
 ./lib
 ./node_modules
+
+./src/parser.ml
+./src/parser.mli
+./src/lexer.ml
